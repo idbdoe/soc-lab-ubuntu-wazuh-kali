@@ -4,8 +4,8 @@
 Simular ataques controlados em um servidor Ubuntu e monitorar os logs utilizando Wazuh para estudos.
 
 ## Ambiente
-- Ubuntu Server (Vítima)
-- Windows 11 (Wazuh)
+- Ubuntu Server (WAZUH )
+- Windows 11 (WAZUH AGENT - VITIMA)
 - Kali Linux (Atacante)
 
 ## Arquitetura
